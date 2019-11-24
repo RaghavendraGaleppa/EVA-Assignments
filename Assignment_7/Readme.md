@@ -21,7 +21,7 @@ And since there are not strides=2 in Inception Module,
 Jout = Jin
 
 ##### Calculation the receptive filed of Inception Net
-![](InceptionNet Architecture.png)
+![]('InceptionNet Architecture.png')
 
 - **Layer**:Convolution(Nin=224, k=7, p='same', s=2, Jin=1, Rin=1)
 	- Nout = 112
